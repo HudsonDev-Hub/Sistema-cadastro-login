@@ -23,10 +23,7 @@ Python 3.x
 
 ▶️ Como executar
 
-Clone este repositório:
-
-git clone https://github.com/SeuUsuario/Sistema-Cadastro-Login.git
-cd Sistema-Cadastro-Login
+Copie o codigo e cole na IDE
 
 Execute o programa:
 python main.py
